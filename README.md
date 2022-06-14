@@ -1,4 +1,23 @@
-# lure-miner
+# Wallet-Miner
+     - A fake wallet miner using python
 
-# lure#3333 For help or https://discord.gg/KUp44gPbDT 
-# Thanks for participating in the lure miner project!
+# Requirements
+     - Python 3.9
+     - pip install colorama
+
+# Made By Lure#3333
+
+
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
+# Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 # Lure#3333 
